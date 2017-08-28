@@ -1,0 +1,27 @@
+[INFO  - 2017-08-28T00:58:09.341Z] GhostDriver - Main - running on port 58065
+[INFO  - 2017-08-28T00:58:11.851Z] Session [f6fa6710-8b8b-11e7-9e2a-05a3ca9e6014] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36","webSecurityEnabled":true}
+[INFO  - 2017-08-28T00:58:11.851Z] Session [f6fa6710-8b8b-11e7-9e2a-05a3ca9e6014] - page.customHeaders:  - {}
+[INFO  - 2017-08-28T00:58:11.851Z] Session [f6fa6710-8b8b-11e7-9e2a-05a3ca9e6014] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.resourceTimeout":15,"phantomjs.page.settings.loadImages":false,"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36"}
+[INFO  - 2017-08-28T00:58:11.851Z] SessionManagerReqHand - _postNewSe[ERROR - 2017-08-28T00:58:18.074Z] Session [f6f7a7f0-8b8b-11e7-a315-9315c0165346] - page.onError - msg: NoModificationAllowedError: DOM Exception 7: An attempt was made to modify an object where modifications are not allowed.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-28T00:58:18.075Z] Session [f6f7a7f0-8b8b-11e7-a315-9315c0165346] - page.onError - stack:
+  cT (http://b1.bst.126.net/newpage/r/j/pc.js?v=1503472847396:1)
+  bZB (http://b1.bst.126.net/newpage/r/j/pc.js?v=1503472847396:1)
+  (anonymous function) (http://b1.bst.126.net/newpage/r/j/pc.js?v=1503472847396:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-28T00:58:18.086Z] Session [f6f7a7f0-8b8b-11e7-a315-9315c0165346] - page.onError - msg: TypeError: undefined is not an object (evaluating 'dnb.bR=function(bv,H){H=H||{};this.aS(bv,H);}')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-28T00:58:18.086Z] Session [f6f7a7f0-8b8b-11e7-a315-9315c0165346] - page.onError - stack:
+  (anonymous function) (http://b1.bst.126.net/newpage/r/j/m/m-3/pm.js?v=1503472847396:1)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-28T00:58:19.101Z] Session [f6f7a7f0-8b8b-11e7-a315-9315c0165346] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'J.loadScript('http://music.ph.126.net/ph.js?001')')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-28T00:58:19.101Z] Session [f6f7a7f0-8b8b-11e7-a315-9315c0165346] - page.onError - stack:
+  (anonymous function) (http://zhiziyun2016.blog.163.com/blog/static/26024601420177422033227/?newFollowBlog:1140)
+
+  phantomjs://platform/console++.js:263 in error
