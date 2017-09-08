@@ -1,0 +1,367 @@
+INFO 31-Aug-2017 10:56:00 [line:44]monitorLaunch.py monitor start
+INFO 31-Aug-2017 10:56:00 [line:60]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 10:56:45 [line:44]monitorLaunch.py monitor start
+INFO 31-Aug-2017 10:56:45 [line:60]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 10:57:58 [line:44]monitorLaunch.py monitor start
+INFO 31-Aug-2017 10:57:58 [line:60]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 10:58:54 [line:44]monitorLaunch.py monitor start
+INFO 31-Aug-2017 10:58:54 [line:60]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 10:59:49 [line:44]monitorLaunch.py monitor start
+INFO 31-Aug-2017 10:59:49 [line:60]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 11:00:39 [line:75]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 11:00:49 [line:60]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 11:24:17 [line:50]monitorLaunch.py monitor start
+INFO 31-Aug-2017 11:24:17 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 11:25:07 [line:85]monitorLaunch.py 程序休息 2093s/34m/0h
+INFO 31-Aug-2017 12:00:00 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:00:50 [line:80]monitorLaunch.py 日志有更新，9-10 --> 9-72
+INFO 31-Aug-2017 12:00:50 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:01:40 [line:80]monitorLaunch.py 日志有更新，9-72 --> 9-75
+INFO 31-Aug-2017 12:01:40 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:02:30 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:02:40 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:03:30 [line:80]monitorLaunch.py 日志有更新，9-75 --> 9-82
+INFO 31-Aug-2017 12:03:30 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:04:20 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:04:30 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:05:20 [line:80]monitorLaunch.py 日志有更新，9-82 --> 9-93
+INFO 31-Aug-2017 12:05:20 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:06:10 [line:80]monitorLaunch.py 日志有更新，9-93 --> 9-101
+INFO 31-Aug-2017 12:06:10 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:07:00 [line:80]monitorLaunch.py 日志有更新，9-101 --> 9-105
+INFO 31-Aug-2017 12:07:00 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:07:50 [line:80]monitorLaunch.py 日志有更新，9-105 --> 9-111
+INFO 31-Aug-2017 12:07:50 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:08:40 [line:80]monitorLaunch.py 日志有更新，9-111 --> 9-164
+INFO 31-Aug-2017 12:08:40 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:09:30 [line:80]monitorLaunch.py 日志有更新，9-164 --> 9-221
+INFO 31-Aug-2017 12:09:30 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:10:20 [line:80]monitorLaunch.py 日志有更新，9-221 --> 9-227
+INFO 31-Aug-2017 12:10:20 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:11:10 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:11:20 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:12:10 [line:80]monitorLaunch.py 日志有更新，9-227 --> 9-291
+INFO 31-Aug-2017 12:12:10 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:13:00 [line:80]monitorLaunch.py 日志有更新，9-291 --> 9-294
+INFO 31-Aug-2017 12:13:00 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:13:50 [line:80]monitorLaunch.py 日志有更新，9-294 --> 9-303
+INFO 31-Aug-2017 12:13:50 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:14:40 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:14:50 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:15:40 [line:80]monitorLaunch.py 日志有更新，9-303 --> 9-366
+INFO 31-Aug-2017 12:15:40 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:16:30 [line:80]monitorLaunch.py 日志有更新，9-366 --> 9-474
+INFO 31-Aug-2017 12:16:30 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:17:20 [line:80]monitorLaunch.py 日志有更新，9-474 --> 9-478
+INFO 31-Aug-2017 12:17:20 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:18:10 [line:80]monitorLaunch.py 日志有更新，9-478 --> 9-484
+INFO 31-Aug-2017 12:18:10 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:19:00 [line:80]monitorLaunch.py 日志有更新，9-484 --> 9-488
+INFO 31-Aug-2017 12:19:00 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:19:50 [line:80]monitorLaunch.py 日志有更新，9-488 --> 9-491
+INFO 31-Aug-2017 12:19:50 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:20:40 [line:80]monitorLaunch.py 日志有更新，9-491 --> 9-501
+INFO 31-Aug-2017 12:20:40 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:21:31 [line:80]monitorLaunch.py 日志有更新，9-501 --> 9-563
+INFO 31-Aug-2017 12:21:31 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:22:21 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:22:31 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:23:21 [line:80]monitorLaunch.py 日志有更新，9-563 --> 9-578
+INFO 31-Aug-2017 12:23:21 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:24:11 [line:80]monitorLaunch.py 日志有更新，9-578 --> 9-696
+INFO 31-Aug-2017 12:24:11 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:25:01 [line:80]monitorLaunch.py 日志有更新，9-696 --> 9-699
+INFO 31-Aug-2017 12:25:01 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:25:51 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:26:01 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:26:51 [line:80]monitorLaunch.py 日志有更新，9-699 --> 9-766
+INFO 31-Aug-2017 12:26:51 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:27:41 [line:80]monitorLaunch.py 日志有更新，9-766 --> 9-770
+INFO 31-Aug-2017 12:27:41 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:28:31 [line:80]monitorLaunch.py 日志有更新，9-770 --> 9-773
+INFO 31-Aug-2017 12:28:31 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:29:21 [line:80]monitorLaunch.py 日志有更新，9-773 --> 9-829
+INFO 31-Aug-2017 12:29:21 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:30:11 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:30:21 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:31:11 [line:80]monitorLaunch.py 日志有更新，9-829 --> 9-836
+INFO 31-Aug-2017 12:31:11 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:32:01 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:32:11 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:33:01 [line:80]monitorLaunch.py 日志有更新，9-836 --> 9-846
+INFO 31-Aug-2017 12:33:01 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:33:51 [line:80]monitorLaunch.py 日志有更新，9-846 --> 9-855
+INFO 31-Aug-2017 12:33:51 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:34:41 [line:80]monitorLaunch.py 日志有更新，9-855 --> 9-906
+INFO 31-Aug-2017 12:34:41 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:35:31 [line:80]monitorLaunch.py 日志有更新，9-906 --> 9-909
+INFO 31-Aug-2017 12:35:31 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:36:21 [line:80]monitorLaunch.py 日志有更新，9-909 --> 9-915
+INFO 31-Aug-2017 12:36:21 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:37:11 [line:80]monitorLaunch.py 日志有更新，9-915 --> 9-918
+INFO 31-Aug-2017 12:37:11 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:38:01 [line:80]monitorLaunch.py 日志有更新，9-918 --> 9-972
+INFO 31-Aug-2017 12:38:01 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:38:51 [line:80]monitorLaunch.py 日志有更新，9-972 --> 9-1084
+INFO 31-Aug-2017 12:38:51 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:39:41 [line:80]monitorLaunch.py 日志有更新，9-1084 --> 9-1140
+INFO 31-Aug-2017 12:39:41 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:40:31 [line:80]monitorLaunch.py 日志有更新，9-1140 --> 9-1150
+INFO 31-Aug-2017 12:40:31 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:41:21 [line:80]monitorLaunch.py 日志有更新，9-1150 --> 9-1157
+INFO 31-Aug-2017 12:41:21 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:42:11 [line:80]monitorLaunch.py 日志有更新，9-1157 --> 9-1269
+INFO 31-Aug-2017 12:42:11 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:43:01 [line:80]monitorLaunch.py 日志有更新，9-1269 --> 9-1275
+INFO 31-Aug-2017 12:43:01 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:43:51 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:44:01 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:44:51 [line:80]monitorLaunch.py 日志有更新，9-1275 --> 9-1284
+INFO 31-Aug-2017 12:44:51 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:45:41 [line:80]monitorLaunch.py 日志有更新，9-1284 --> 9-1294
+INFO 31-Aug-2017 12:45:41 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:46:31 [line:80]monitorLaunch.py 日志有更新，9-1294 --> 9-1359
+INFO 31-Aug-2017 12:46:31 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:47:21 [line:80]monitorLaunch.py 日志有更新，9-1359 --> 9-1363
+INFO 31-Aug-2017 12:47:21 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:48:11 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:48:21 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:49:11 [line:80]monitorLaunch.py 日志有更新，9-1363 --> 9-1374
+INFO 31-Aug-2017 12:49:11 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:50:01 [line:80]monitorLaunch.py 日志有更新，9-1374 --> 9-1383
+INFO 31-Aug-2017 12:50:01 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:50:51 [line:80]monitorLaunch.py 日志有更新，9-1383 --> 9-1436
+INFO 31-Aug-2017 12:50:51 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:51:41 [line:80]monitorLaunch.py 日志有更新，9-1436 --> 9-1447
+INFO 31-Aug-2017 12:51:41 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:52:31 [line:80]monitorLaunch.py 日志有更新，9-1447 --> 9-1450
+INFO 31-Aug-2017 12:52:31 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:53:21 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:53:31 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:54:21 [line:80]monitorLaunch.py 日志有更新，9-1450 --> 9-1458
+INFO 31-Aug-2017 12:54:21 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:55:11 [line:80]monitorLaunch.py 日志有更新，9-1458 --> 9-1464
+INFO 31-Aug-2017 12:55:11 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:56:01 [line:80]monitorLaunch.py 日志有更新，9-1464 --> 9-1529
+INFO 31-Aug-2017 12:56:01 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:56:51 [line:80]monitorLaunch.py 日志有更新，9-1529 --> 9-1641
+INFO 31-Aug-2017 12:56:51 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:57:41 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:57:51 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 12:58:41 [line:80]monitorLaunch.py 日志有更新，9-1641 --> 9-1648
+INFO 31-Aug-2017 12:58:41 [line:69]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 12:59:31 [line:89]monitorLaunch.py 50 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 12:59:41 [line:69]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:00:22 [line:57]monitorLaunch.py monitor start
+INFO 31-Aug-2017 13:00:22 [line:76]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:01:12 [line:87]monitorLaunch.py 日志有更新，2-1673 --> 2-1681
+INFO 31-Aug-2017 13:01:12 [line:76]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:02:02 [line:87]monitorLaunch.py 日志有更新，2-1681 --> 2-1732
+INFO 31-Aug-2017 13:02:02 [line:76]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:02:52 [line:87]monitorLaunch.py 日志有更新，2-1732 --> 2-1738
+INFO 31-Aug-2017 13:02:52 [line:76]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:03:42 [line:87]monitorLaunch.py 日志有更新，2-1738 --> 2-1745
+INFO 31-Aug-2017 13:03:42 [line:76]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:04:11 [line:57]monitorLaunch.py monitor start
+INFO 31-Aug-2017 13:04:11 [line:76]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:08:34 [line:51]monitorLaunch.py monitor start
+INFO 31-Aug-2017 13:08:34 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 13:13:34 [line:90]monitorLaunch.py 300 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 13:14:33 [line:51]monitorLaunch.py monitor start
+INFO 31-Aug-2017 13:14:33 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:16:12 [line:51]monitorLaunch.py monitor start
+INFO 31-Aug-2017 13:16:12 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:21:12 [line:81]monitorLaunch.py 日志有更新，3-0 --> 3-252
+INFO 31-Aug-2017 13:21:12 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:26:12 [line:81]monitorLaunch.py 日志有更新，3-252 --> 3-404
+INFO 31-Aug-2017 13:26:12 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:31:12 [line:81]monitorLaunch.py 日志有更新，3-404 --> 3-459
+INFO 31-Aug-2017 13:31:12 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:36:12 [line:81]monitorLaunch.py 日志有更新，3-459 --> 3-576
+INFO 31-Aug-2017 13:36:12 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 13:41:12 [line:90]monitorLaunch.py 300 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 13:41:27 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:46:27 [line:81]monitorLaunch.py 日志有更新，3-576 --> 3-786
+INFO 31-Aug-2017 13:46:27 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:51:27 [line:81]monitorLaunch.py 日志有更新，3-786 --> 3-876
+INFO 31-Aug-2017 13:51:27 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 13:56:27 [line:81]monitorLaunch.py 日志有更新，3-876 --> 3-1027
+INFO 31-Aug-2017 13:56:27 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 14:01:27 [line:81]monitorLaunch.py 日志有更新，3-1027 --> 3-1121
+INFO 31-Aug-2017 14:01:27 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 14:06:27 [line:81]monitorLaunch.py 日志有更新，3-1121 --> 3-1155
+INFO 31-Aug-2017 14:06:27 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 14:11:27 [line:90]monitorLaunch.py 300 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 14:11:42 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 14:16:42 [line:81]monitorLaunch.py 日志有更新，3-1155 --> 3-1199
+INFO 31-Aug-2017 14:16:42 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 14:21:42 [line:81]monitorLaunch.py 日志有更新，3-1199 --> 3-1219
+INFO 31-Aug-2017 14:21:42 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 14:26:42 [line:90]monitorLaunch.py 300 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 14:26:57 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 14:31:57 [line:81]monitorLaunch.py 日志有更新，3-1219 --> 3-1229
+INFO 31-Aug-2017 14:31:57 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 14:36:57 [line:90]monitorLaunch.py 300 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 14:37:12 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 14:42:12 [line:81]monitorLaunch.py 日志有更新，3-1229 --> 3-1294
+INFO 31-Aug-2017 14:42:12 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 14:47:12 [line:90]monitorLaunch.py 300 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 14:47:27 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 14:52:27 [line:81]monitorLaunch.py 日志有更新，3-1294 --> 3-1446
+INFO 31-Aug-2017 14:52:27 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 14:57:27 [line:90]monitorLaunch.py 300 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 14:57:42 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 15:02:42 [line:81]monitorLaunch.py 日志有更新，3-1446 --> 3-1557
+INFO 31-Aug-2017 15:02:42 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 15:05:31 [line:51]monitorLaunch.py monitor start
+INFO 31-Aug-2017 15:05:31 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 15:06:42 [line:51]monitorLaunch.py monitor start
+INFO 31-Aug-2017 15:06:42 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 15:16:42 [line:81]monitorLaunch.py 日志有更新，3-0 --> 3-19
+INFO 31-Aug-2017 15:16:42 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 15:26:42 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 15:26:57 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 15:36:57 [line:81]monitorLaunch.py 日志有更新，3-19 --> 3-327
+INFO 31-Aug-2017 15:36:57 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 15:46:57 [line:81]monitorLaunch.py 日志有更新，3-327 --> 3-485
+INFO 31-Aug-2017 15:46:57 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 15:56:57 [line:81]monitorLaunch.py 日志有更新，3-485 --> 3-808
+INFO 31-Aug-2017 15:56:57 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 16:01:28 [line:51]monitorLaunch.py monitor start
+INFO 31-Aug-2017 16:01:28 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 16:04:43 [line:51]monitorLaunch.py monitor start
+INFO 31-Aug-2017 16:04:43 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 16:06:57 [line:81]monitorLaunch.py 日志有更新，3-808 --> 3-1097
+INFO 31-Aug-2017 16:06:57 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 16:14:43 [line:81]monitorLaunch.py 日志有更新，3-1029 --> 3-1149
+INFO 31-Aug-2017 16:14:43 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 16:16:57 [line:81]monitorLaunch.py 日志有更新，3-1097 --> 3-1149
+INFO 31-Aug-2017 16:16:57 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 16:24:43 [line:86]monitorLaunch.py 程序休息 2117s/35m/0h
+WARNING 31-Aug-2017 16:26:57 [line:86]monitorLaunch.py 程序休息 70383s/1173m/19h
+INFO 31-Aug-2017 17:00:00 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 17:10:00 [line:81]monitorLaunch.py 日志有更新，3-1149 --> 3-1374
+INFO 31-Aug-2017 17:10:00 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 17:20:00 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 17:20:15 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 17:30:15 [line:81]monitorLaunch.py 日志有更新，3-1374 --> 3-1429
+INFO 31-Aug-2017 17:30:15 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 17:40:15 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 17:40:30 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 17:50:30 [line:81]monitorLaunch.py 日志有更新，3-1429 --> 3-1732
+INFO 31-Aug-2017 17:50:30 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 18:00:30 [line:86]monitorLaunch.py 程序休息 82770s/1379m/22h
+INFO 31-Aug-2017 18:21:44 [line:51]monitorLaunch.py monitor start
+INFO 31-Aug-2017 18:21:44 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 18:31:44 [line:81]monitorLaunch.py 日志有更新，3-1732 --> 3-1999
+INFO 31-Aug-2017 18:31:44 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 18:41:44 [line:81]monitorLaunch.py 日志有更新，3-1999 --> 3-2269
+INFO 31-Aug-2017 18:41:44 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 18:51:44 [line:81]monitorLaunch.py 日志有更新，3-2269 --> 3-2618
+INFO 31-Aug-2017 18:51:44 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 19:01:44 [line:81]monitorLaunch.py 日志有更新，3-2618 --> 3-3093
+INFO 31-Aug-2017 19:01:44 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 19:11:44 [line:81]monitorLaunch.py 日志有更新，3-3093 --> 3-3515
+INFO 31-Aug-2017 19:11:44 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 19:21:44 [line:81]monitorLaunch.py 日志有更新，3-3515 --> 3-3823
+INFO 31-Aug-2017 19:21:44 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 19:31:44 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 19:31:59 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 19:41:59 [line:81]monitorLaunch.py 日志有更新，3-3823 --> 3-3946
+INFO 31-Aug-2017 19:41:59 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 19:51:59 [line:81]monitorLaunch.py 日志有更新，3-3946 --> 3-4282
+INFO 31-Aug-2017 19:51:59 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 20:01:59 [line:81]monitorLaunch.py 日志有更新，3-4282 --> 3-4534
+INFO 31-Aug-2017 20:01:59 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 20:11:59 [line:81]monitorLaunch.py 日志有更新，3-4534 --> 3-5095
+INFO 31-Aug-2017 20:11:59 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 20:21:59 [line:81]monitorLaunch.py 日志有更新，3-5095 --> 3-5914
+INFO 31-Aug-2017 20:21:59 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 20:31:59 [line:81]monitorLaunch.py 日志有更新，3-5914 --> 3-5917
+INFO 31-Aug-2017 20:31:59 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 20:41:59 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 20:42:14 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 20:52:14 [line:81]monitorLaunch.py 日志有更新，3-5917 --> 3-6267
+INFO 31-Aug-2017 20:52:14 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 21:02:14 [line:81]monitorLaunch.py 日志有更新，3-6267 --> 3-6643
+INFO 31-Aug-2017 21:02:14 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 21:12:14 [line:81]monitorLaunch.py 日志有更新，3-6643 --> 3-6989
+INFO 31-Aug-2017 21:12:14 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 21:22:14 [line:81]monitorLaunch.py 日志有更新，3-6989 --> 3-7368
+INFO 31-Aug-2017 21:22:14 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 21:32:14 [line:81]monitorLaunch.py 日志有更新，3-7368 --> 3-7371
+INFO 31-Aug-2017 21:32:14 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 21:42:14 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 31-Aug-2017 21:42:29 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 21:52:29 [line:81]monitorLaunch.py 日志有更新，3-7371 --> 3-7609
+INFO 31-Aug-2017 21:52:29 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 22:02:29 [line:81]monitorLaunch.py 日志有更新，3-7609 --> 3-8042
+INFO 31-Aug-2017 22:02:29 [line:70]monitorLaunch.py baiduSearch launch
+INFO 31-Aug-2017 22:12:29 [line:81]monitorLaunch.py 日志有更新，3-8042 --> 3-8055
+INFO 31-Aug-2017 22:12:29 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 31-Aug-2017 22:22:29 [line:86]monitorLaunch.py 程序休息 34651s/577m/9h
+INFO 01-Sep-2017 08:00:00 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 08:10:00 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 08:10:15 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 08:20:15 [line:81]monitorLaunch.py 日志有更新，3-8055 --> 3-8322
+INFO 01-Sep-2017 08:20:15 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 08:30:15 [line:81]monitorLaunch.py 日志有更新，3-8322 --> 3-8595
+INFO 01-Sep-2017 08:30:15 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 08:40:15 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 08:40:30 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 08:50:30 [line:81]monitorLaunch.py 日志有更新，3-8595 --> 3-9011
+INFO 01-Sep-2017 08:50:30 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 09:00:31 [line:81]monitorLaunch.py 日志有更新，3-9011 --> 3-9424
+INFO 01-Sep-2017 09:00:31 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 09:10:31 [line:81]monitorLaunch.py 日志有更新，3-9424 --> 3-9594
+INFO 01-Sep-2017 09:10:31 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 12:00:00 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 12:10:00 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 12:10:15 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 12:20:15 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 12:20:30 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 12:30:33 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 12:30:48 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 12:40:48 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 12:41:03 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 12:51:03 [line:81]monitorLaunch.py 日志有更新，3-1149 --> 3-1163
+INFO 01-Sep-2017 12:51:03 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 13:01:03 [line:81]monitorLaunch.py 日志有更新，3-1163 --> 3-1276
+INFO 01-Sep-2017 13:01:03 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 13:11:03 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 13:11:18 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 13:21:18 [line:81]monitorLaunch.py 日志有更新，3-1276 --> 3-1778
+INFO 01-Sep-2017 13:21:18 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 13:31:18 [line:81]monitorLaunch.py 日志有更新，3-1778 --> 3-2164
+INFO 01-Sep-2017 13:31:18 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 13:41:18 [line:81]monitorLaunch.py 日志有更新，3-2164 --> 3-2619
+INFO 01-Sep-2017 13:41:18 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 13:51:18 [line:81]monitorLaunch.py 日志有更新，3-2619 --> 3-2622
+INFO 01-Sep-2017 13:51:18 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 14:01:18 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 14:01:33 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 14:11:33 [line:81]monitorLaunch.py 日志有更新，3-2622 --> 3-2717
+INFO 01-Sep-2017 14:11:33 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 14:21:33 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 14:21:48 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 14:31:48 [line:81]monitorLaunch.py 日志有更新，3-2717 --> 3-3064
+INFO 01-Sep-2017 14:31:48 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 14:41:48 [line:81]monitorLaunch.py 日志有更新，3-3064 --> 3-3086
+INFO 01-Sep-2017 14:41:48 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 14:51:48 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 14:52:03 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 15:02:04 [line:81]monitorLaunch.py 日志有更新，3-3086 --> 3-3112
+INFO 01-Sep-2017 15:02:04 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 15:12:04 [line:81]monitorLaunch.py 日志有更新，3-3112 --> 3-3328
+INFO 01-Sep-2017 15:12:04 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 15:22:04 [line:81]monitorLaunch.py 日志有更新，3-3328 --> 3-3378
+INFO 01-Sep-2017 15:22:04 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 15:32:04 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 15:32:19 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 15:42:19 [line:81]monitorLaunch.py 日志有更新，3-3378 --> 3-3516
+INFO 01-Sep-2017 15:42:19 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 15:52:19 [line:90]monitorLaunch.py 600 s 日志没有更新，重启Launch进程。
+INFO 01-Sep-2017 15:52:34 [line:70]monitorLaunch.py baiduSearch launch
+INFO 01-Sep-2017 16:02:34 [line:81]monitorLaunch.py 日志有更新，3-3516 --> 3-3612
+INFO 01-Sep-2017 16:02:34 [line:70]monitorLaunch.py baiduSearch launch
+WARNING 01-Sep-2017 16:12:34 [line:86]monitorLaunch.py 程序休息 71246s/1187m/19h

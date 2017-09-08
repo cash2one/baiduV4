@@ -1,0 +1,1615 @@
+INFO 30-Aug-2017 13:20:16 [line:56]clickLaunch.py S----T----A----R----T
+INFO 30-Aug-2017 13:20:35 [line:62]vpnLoop.py 云南省 vpn : connected!
+INFO 30-Aug-2017 13:20:42 [line:78]clickLaunch.py ip-address: 112.112.209.80
+INFO 30-Aug-2017 13:20:42 [line:87]clickLaunch.py work times:6
+INFO 30-Aug-2017 13:20:42 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130330 Firefox/21.0]
+INFO 30-Aug-2017 13:21:10 [line:86]clickWorker.py 智子云招聘_百度搜索
+INFO 30-Aug-2017 13:21:10 [line:109]clickWorker.py 智子云招聘
+智子云数据做假/智子云dsp/智子云靠谱吗/上海夜晚兼职招聘信息/智子云/上海智子云/智子云 靠谱吗/智子云守护/智子云怎么样
+INFO 30-Aug-2017 13:21:27 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:21:46 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:21:46 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:22:01 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:22:01 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:22:04 [line:51]clickWorker.py set ua:[Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10]
+ERROR 30-Aug-2017 13:22:34 [line:78]clickWorker.py no content of searching
+INFO 30-Aug-2017 13:22:59 [line:86]clickWorker.py 智子云自动化智能化_百度搜索
+ERROR 30-Aug-2017 13:23:10 [line:97]clickWorker.py nothing about wordthinking
+INFO 30-Aug-2017 13:23:10 [line:109]clickWorker.py 
+自动化 智能化/智能化和自动化的区别/自动化与智能化的区别/自动化 信息化 智能化/自动化与智能化/机械化 自动化 智能化/自动化 智能化 智慧化/自动化所智能化大厦/智能化和自动化
+INFO 30-Aug-2017 13:23:51 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:23:51 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:24:20 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:24:20 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:24:23 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1467.0 Safari/537.36]
+INFO 30-Aug-2017 13:24:42 [line:86]clickWorker.py 智子云自动化智能化_百度搜索
+INFO 30-Aug-2017 13:24:43 [line:109]clickWorker.py 智子云自动化智能化
+自动化 智能化/智能化和自动化的区别/自动化与智能化的区别/自动化 信息化 智能化/自动化与智能化/机械化 自动化 智能化/自动化 智能化 智慧化/自动化所智能化大厦/智能化和自动化
+INFO 30-Aug-2017 13:26:21 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:26:54 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:26:54 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:27:00 [line:151]clickWorker.py load link successful[1/2]
+WARNING 30-Aug-2017 13:27:00 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 13:27:00 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:27:00 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:27:03 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/18.0.1]
+INFO 30-Aug-2017 13:27:22 [line:86]clickWorker.py 智子云OpenDSP_百度搜索
+INFO 30-Aug-2017 13:27:22 [line:109]clickWorker.py 智子云opendsp
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 13:27:35 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:27:35 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:27:56 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:27:56 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:27:59 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)]
+ERROR 30-Aug-2017 13:28:35 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 13:28:35 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 13:28:37 [line:86]clickWorker.py 智子云数据透明_百度搜索
+ERROR 30-Aug-2017 13:28:47 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 13:28:47 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 13:28:47 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:61086","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/ff994710-8d43-11e7-b49c-1f98ea91b5c8/element/:wdc:1504070927550/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:28:48 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 13:28:48 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 13:28:48 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 13:28:48 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:28:48 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 13:28:48 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:61086","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"ff994710-8d43-11e7-b49c-1f98ea91b5c8\", \"id\": \":wdc:1504070927569\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/ff994710-8d43-11e7-b49c-1f98ea91b5c8/element/:wdc:1504070927569/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:28:49 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 13:28:49 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:28:49 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:28:52 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20100101 Firefox/21.0]
+ERROR 30-Aug-2017 13:29:51 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 13:29:52 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 13:29:54 [line:86]clickWorker.py 智子云自动化智能化_百度搜索
+ERROR 30-Aug-2017 13:30:04 [line:97]clickWorker.py nothing about wordthinking
+INFO 30-Aug-2017 13:30:04 [line:109]clickWorker.py 
+自动化 智能化/智能化和自动化的区别/自动化与智能化的区别/自动化 信息化 智能化/自动化与智能化/机械化 自动化 智能化/自动化 智能化 智慧化/自动化所智能化大厦/智能化和自动化
+INFO 30-Aug-2017 13:30:19 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:30:19 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:30:56 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:31:02 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:31:03 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:31:06 [line:72]vpnLoop.py 云南省 vpn : disconnected!
+INFO 30-Aug-2017 13:31:31 [line:62]vpnLoop.py 北京 vpn : connected!
+INFO 30-Aug-2017 13:31:35 [line:78]clickLaunch.py ip-address: 222.129.48.234
+INFO 30-Aug-2017 13:31:35 [line:87]clickLaunch.py work times:7
+INFO 30-Aug-2017 13:31:35 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/18.0.1]
+INFO 30-Aug-2017 13:31:54 [line:86]clickWorker.py 智子云DSP代理_百度搜索
+INFO 30-Aug-2017 13:31:54 [line:109]clickWorker.py 智子云dsp代理
+智子云多少钱代理/智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好
+INFO 30-Aug-2017 13:32:10 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:32:27 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:32:27 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:32:54 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:32:54 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:32:57 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; WOW64; rv:16.0.1) Gecko/20121011 Firefox/16.0.1]
+INFO 30-Aug-2017 13:33:19 [line:86]clickWorker.py 智子云数据透明_百度搜索
+INFO 30-Aug-2017 13:33:19 [line:109]clickWorker.py 智子云数据透明
+智子云数据做假/数据库透明加密/透明数据加密/数据透明传输/透明售房网数据准确吗/透明数据表/透明售房网 杭州 数据/oracle透明数据库加密/oracle 透明数据加密
+INFO 30-Aug-2017 13:34:23 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:34:40 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:34:40 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:35:06 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:35:06 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:35:09 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; WOW64; rv:21.0) Gecko/20130514 Firefox/21.0]
+INFO 30-Aug-2017 13:35:27 [line:86]clickWorker.py 智子云数据透明_百度搜索
+INFO 30-Aug-2017 13:35:27 [line:109]clickWorker.py 智子云数据透明
+智子云数据做假/数据库透明加密/透明数据加密/数据透明传输/透明售房网数据准确吗/透明数据表/透明售房网 杭州 数据/oracle透明数据库加密/oracle 透明数据加密
+INFO 30-Aug-2017 13:35:41 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:35:41 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:35:58 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:35:58 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:36:01 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko]
+ERROR 30-Aug-2017 13:36:15 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 13:36:16 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 13:36:18 [line:86]clickWorker.py 智子科技股票_百度搜索
+ERROR 30-Aug-2017 13:36:28 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 13:36:39 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 13:36:39 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 101, in baiduSpiderTask
+    EC.presence_of_all_elements_located((By.XPATH, '//div[@id="rs"]//th/a'))):
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+TimeoutException: Message: 
+
+WARNING 30-Aug-2017 13:36:39 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 13:36:39 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:36:39 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 13:36:39 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:62573","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"1ee36b90-8d45-11e7-8e1d-df35799ad8e1\", \"id\": \":wdc:1504071373727\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/1ee36b90-8d45-11e7-8e1d-df35799ad8e1/element/:wdc:1504071373727/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:36:40 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 13:36:40 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:36:40 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:36:43 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET CLR 1.1.4322; .NET4.0C; Tablet PC 2.0)]
+ERROR 30-Aug-2017 13:36:56 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 13:36:56 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 13:36:58 [line:86]clickWorker.py 智子云DSP代理_百度搜索
+ERROR 30-Aug-2017 13:37:09 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 13:37:09 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 13:37:09 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:62659","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/37965b70-8d45-11e7-870a-eb2be7117cf9/element/:wdc:1504071414851/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:37:09 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 13:37:09 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:37:09 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 13:37:10 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:62659","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"37965b70-8d45-11e7-870a-eb2be7117cf9\", \"id\": \":wdc:1504071414870\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/37965b70-8d45-11e7-870a-eb2be7117cf9/element/:wdc:1504071414870/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:37:10 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 13:37:10 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:37:10 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:37:13 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0; GTB7.4; InfoPath.3; SV1; .NET CLR 3.1.76908; WOW64; en-US)]
+ERROR 30-Aug-2017 13:37:28 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 13:37:28 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 13:37:30 [line:86]clickWorker.py 智子云自动化智能化_百度搜索
+ERROR 30-Aug-2017 13:37:41 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 13:37:41 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 13:37:41 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:62726","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/4993c3d0-8d45-11e7-b045-f1fabb3c1a5c/element/:wdc:1504071447247/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:37:42 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 13:37:42 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 13:37:42 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 13:37:42 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:37:42 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 13:37:42 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:62726","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"4993c3d0-8d45-11e7-b045-f1fabb3c1a5c\", \"id\": \":wdc:1504071447266\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/4993c3d0-8d45-11e7-b045-f1fabb3c1a5c/element/:wdc:1504071447266/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:37:43 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 13:37:43 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 13:37:43 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 13:37:43 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:37:43 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:37:46 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:27.0) Gecko/20121011 Firefox/27.0]
+INFO 30-Aug-2017 13:38:01 [line:86]clickWorker.py 智子云老板_百度搜索
+INFO 30-Aug-2017 13:38:01 [line:109]clickWorker.py 智子云老板
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 13:38:12 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:38:12 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:38:43 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:38:43 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:38:46 [line:72]vpnLoop.py 北京 vpn : disconnected!
+INFO 30-Aug-2017 13:39:01 [line:62]vpnLoop.py 吉林省 vpn : connected!
+WARNING 30-Aug-2017 13:39:44 [line:673]connectionpool.py Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<requests.packages.urllib3.connection.HTTPConnection object at 0x0000000004121B70>, 'Connection to icanhazip.com timed out. (connect timeout=10)')': /
+WARNING 30-Aug-2017 13:40:24 [line:673]connectionpool.py Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<requests.packages.urllib3.connection.HTTPConnection object at 0x0000000004121400>, 'Connection to icanhazip.com timed out. (connect timeout=10)')': /
+WARNING 30-Aug-2017 13:41:04 [line:673]connectionpool.py Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectTimeoutError(<requests.packages.urllib3.connection.HTTPConnection object at 0x0000000004119978>, 'Connection to icanhazip.com timed out. (connect timeout=10)')': /
+ERROR 30-Aug-2017 13:41:35 [line:80]clickLaunch.py 查询ip地址失败
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickLaunch.py", line 78, in main
+    logging.info("ip-address: %s", worker.getIP())
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 188, in getIP
+    res = s.get(url="http://icanhazip.com/", headers=request_headers, timeout=10)
+  File "C:\Anaconda2\lib\site-packages\requests\sessions.py", line 531, in get
+    return self.request('GET', url, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\requests\sessions.py", line 518, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Anaconda2\lib\site-packages\requests\sessions.py", line 639, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Anaconda2\lib\site-packages\requests\adapters.py", line 502, in send
+    raise ConnectionError(e, request=request)
+ConnectionError: HTTPConnectionPool(host='icanhazip.com', port=80): Max retries exceeded with url: / (Caused by ReadTimeoutError("HTTPConnectionPool(host='icanhazip.com', port=80): Read timed out. (read timeout=10)",))
+INFO 30-Aug-2017 13:41:35 [line:87]clickLaunch.py work times:10
+INFO 30-Aug-2017 13:41:35 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36 ]
+INFO 30-Aug-2017 13:41:53 [line:86]clickWorker.py 智子云OpenDMP白皮书_百度搜索
+INFO 30-Aug-2017 13:41:53 [line:109]clickWorker.py 智子云opendmp白皮书
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 13:42:23 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:42:34 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:42:34 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:42:51 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:42:51 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:42:54 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36]
+INFO 30-Aug-2017 13:43:13 [line:86]clickWorker.py 智子云老板_百度搜索
+INFO 30-Aug-2017 13:43:14 [line:109]clickWorker.py 智子云老板
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 13:43:40 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:43:40 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:43:50 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:43:58 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:43:58 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:44:01 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.16 Safari/537.36]
+INFO 30-Aug-2017 13:44:19 [line:86]clickWorker.py 智子云OpenDSP_百度搜索
+INFO 30-Aug-2017 13:44:19 [line:109]clickWorker.py 智子云opendsp
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 13:44:38 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:44:38 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:44:45 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:44:53 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:44:53 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:44:56 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/4.0; GTB7.4; InfoPath.1; SV1; .NET CLR 2.8.52393; WOW64; en-US)]
+ERROR 30-Aug-2017 13:45:08 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 13:45:08 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 13:45:10 [line:86]clickWorker.py 智子云DSP代理_百度搜索
+ERROR 30-Aug-2017 13:45:20 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 13:45:21 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 13:45:21 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:63864","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/5c295810-8d46-11e7-bda2-37ab942f61f9/element/:wdc:1504071906534/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:45:21 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 13:45:21 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:45:21 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 13:45:21 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:63864","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"5c295810-8d46-11e7-bda2-37ab942f61f9\", \"id\": \":wdc:1504071906553\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/5c295810-8d46-11e7-bda2-37ab942f61f9/element/:wdc:1504071906553/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:45:22 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 13:45:22 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 13:45:22 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 13:45:22 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:45:22 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:45:25 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.2309.372 Safari/537.36]
+INFO 30-Aug-2017 13:45:43 [line:86]clickWorker.py 智子云OpenDMP白皮书_百度搜索
+INFO 30-Aug-2017 13:45:43 [line:109]clickWorker.py 智子云opendmp白皮书
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 13:45:57 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:46:26 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:46:26 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:46:32 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:46:43 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:46:43 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:46:46 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36]
+INFO 30-Aug-2017 13:47:01 [line:86]clickWorker.py 智子云招聘_百度搜索
+INFO 30-Aug-2017 13:47:01 [line:109]clickWorker.py 智子云招聘
+智子云数据做假/智子云dsp/智子云靠谱吗/上海夜晚兼职招聘信息/智子云/上海智子云/智子云 靠谱吗/智子云守护/智子云怎么样
+INFO 30-Aug-2017 13:47:09 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:47:24 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:47:24 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:47:40 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:47:40 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:47:43 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1623.0 Safari/537.36]
+INFO 30-Aug-2017 13:47:59 [line:86]clickWorker.py 智子云DSP代理_百度搜索
+INFO 30-Aug-2017 13:47:59 [line:109]clickWorker.py 智子云dsp代理
+智子云多少钱代理/智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好
+INFO 30-Aug-2017 13:48:09 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:48:23 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:48:23 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:48:39 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:48:39 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:48:42 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/4.0; InfoPath.2; SV1; .NET CLR 2.0.50727; WOW64)]
+ERROR 30-Aug-2017 13:48:57 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 13:48:58 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 13:49:00 [line:86]clickWorker.py 智子云DMP案例_百度搜索
+ERROR 30-Aug-2017 13:49:10 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 13:49:10 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 13:49:10 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:64572","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/e4344f30-8d46-11e7-834d-2952830f6ec5/element/:wdc:1504072134812/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:49:11 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 13:49:11 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 13:49:11 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 13:49:11 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:49:11 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 13:49:11 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:64572","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"e4344f30-8d46-11e7-834d-2952830f6ec5\", \"id\": \":wdc:1504072134831\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/e4344f30-8d46-11e7-834d-2952830f6ec5/element/:wdc:1504072134831/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:49:12 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 13:49:12 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:49:12 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:49:15 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0; chromeframe/11.0.696.57)]
+ERROR 30-Aug-2017 13:49:29 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 13:49:29 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 13:49:31 [line:86]clickWorker.py 智子云数据透明_百度搜索
+ERROR 30-Aug-2017 13:49:42 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 13:49:42 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 13:49:42 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:64654","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/f7b79440-8d46-11e7-9006-f974f3988ca7/element/:wdc:1504072167202/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:49:42 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 13:49:42 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:49:42 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 13:49:42 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:64654","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"f7b79440-8d46-11e7-9006-f974f3988ca7\", \"id\": \":wdc:1504072167221\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/f7b79440-8d46-11e7-9006-f974f3988ca7/element/:wdc:1504072167221/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:49:43 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 13:49:43 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 13:49:43 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 13:49:43 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:49:43 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:49:46 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.2 Safari/537.36]
+INFO 30-Aug-2017 13:50:04 [line:86]clickWorker.py 智子云DSP代理_百度搜索
+INFO 30-Aug-2017 13:50:04 [line:109]clickWorker.py 智子云dsp代理
+智子云多少钱代理/智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好
+INFO 30-Aug-2017 13:50:18 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:50:33 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:50:33 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:51:03 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 13:51:04 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:51:07 [line:72]vpnLoop.py 吉林省 vpn : disconnected!
+INFO 30-Aug-2017 13:51:30 [line:62]vpnLoop.py 四川省 vpn : connected!
+INFO 30-Aug-2017 13:51:34 [line:78]clickLaunch.py ip-address: 182.135.239.248
+INFO 30-Aug-2017 13:51:34 [line:87]clickLaunch.py work times:10
+INFO 30-Aug-2017 13:51:34 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1468.0 Safari/537.36]
+INFO 30-Aug-2017 13:51:49 [line:86]clickWorker.py 智子科技股票_百度搜索
+ERROR 30-Aug-2017 13:52:00 [line:104]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 13:52:00 [line:109]clickWorker.py 智子科技股票
+
+INFO 30-Aug-2017 13:54:54 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 13:55:13 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 13:55:13 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 13:55:44 [line:151]clickWorker.py load link successful[1/2]
+WARNING 30-Aug-2017 13:55:45 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 13:55:45 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:55:45 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:55:48 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; chromeframe/12.0.742.112)]
+ERROR 30-Aug-2017 13:56:07 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 13:56:07 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 13:56:09 [line:86]clickWorker.py 智子云OpenDMP白皮书_百度搜索
+ERROR 30-Aug-2017 13:56:20 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 13:56:20 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 13:56:20 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:65436","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/e22a0ad0-8d47-11e7-a852-89fc67caeb87/element/:wdc:1504072565480/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:56:20 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 13:56:20 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:56:20 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 13:56:21 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:65436","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"e22a0ad0-8d47-11e7-a852-89fc67caeb87\", \"id\": \":wdc:1504072565499\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/e22a0ad0-8d47-11e7-a852-89fc67caeb87/element/:wdc:1504072565499/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:56:21 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 13:56:21 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 13:56:21 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 13:56:21 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:56:21 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:56:24 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7)]
+ERROR 30-Aug-2017 13:56:41 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 13:56:41 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 13:56:43 [line:86]clickWorker.py 智子云数据透明_百度搜索
+ERROR 30-Aug-2017 13:56:54 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 13:56:54 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 13:56:54 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:65508","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/f7bcf600-8d47-11e7-889d-271526316ccb/element/:wdc:1504072600053/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:56:54 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 13:56:54 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 13:56:54 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 13:56:55 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:56:55 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 13:56:55 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:65508","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"f7bcf600-8d47-11e7-889d-271526316ccb\", \"id\": \":wdc:1504072600072\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/f7bcf600-8d47-11e7-889d-271526316ccb/element/:wdc:1504072600072/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 13:56:55 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 13:56:55 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 13:56:55 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 13:56:58 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20130406 Firefox/23.0]
+INFO 30-Aug-2017 13:57:17 [line:86]clickWorker.py 智子云数据透明_百度搜索
+INFO 30-Aug-2017 13:57:17 [line:109]clickWorker.py 智子云数据透明
+智子云数据做假/数据库透明加密/透明数据加密/数据透明传输/透明售房网数据准确吗/透明数据表/透明售房网 杭州 数据/oracle透明数据库加密/oracle 透明数据加密
+INFO 30-Aug-2017 13:57:34 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:04:28 [line:56]clickLaunch.py S----T----A----R----T
+INFO 30-Aug-2017 14:04:41 [line:62]vpnLoop.py 云南省 vpn : connected!
+INFO 30-Aug-2017 14:04:45 [line:78]clickLaunch.py ip-address: 222.172.132.20
+INFO 30-Aug-2017 14:04:45 [line:87]clickLaunch.py work times:7
+INFO 30-Aug-2017 14:04:45 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)]
+ERROR 30-Aug-2017 14:05:03 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 14:05:03 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:05:05 [line:86]clickWorker.py 智子云数据透明_百度搜索
+ERROR 30-Aug-2017 14:05:16 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 14:05:16 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 14:05:16 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:49706","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/226edf70-8d49-11e7-8b57-7b76b8f014da/element/:wdc:1504073101956/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:05:16 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:05:16 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:05:16 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 14:05:17 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:49706","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"226edf70-8d49-11e7-8b57-7b76b8f014da\", \"id\": \":wdc:1504073101975\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/226edf70-8d49-11e7-8b57-7b76b8f014da/element/:wdc:1504073101975/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:05:17 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 14:05:17 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 14:05:17 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 14:05:17 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:05:17 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:05:20 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20120101 Firefox/29.0]
+INFO 30-Aug-2017 14:05:42 [line:86]clickWorker.py 智子云DSP代理_百度搜索
+INFO 30-Aug-2017 14:05:43 [line:109]clickWorker.py 智子云dsp代理
+智子云多少钱代理/智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好
+INFO 30-Aug-2017 14:06:03 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:06:03 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:07:08 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:07:08 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:07:11 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; rv:15.0) Gecko/20120716 Firefox/15.0a2]
+INFO 30-Aug-2017 14:07:33 [line:86]clickWorker.py 智子云OpenDMP白皮书_百度搜索
+INFO 30-Aug-2017 14:07:33 [line:109]clickWorker.py 智子云opendmp白皮书
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 14:07:54 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:07:54 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:08:35 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:08:41 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:08:41 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:08:44 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; chromeframe/11.0.696.57)]
+ERROR 30-Aug-2017 14:09:13 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 14:09:13 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:09:15 [line:86]clickWorker.py 智子云自动化智能化_百度搜索
+ERROR 30-Aug-2017 14:09:26 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 14:09:26 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 14:09:26 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:50234","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/b0d64190-8d49-11e7-994f-db06a4b23dc4/element/:wdc:1504073350468/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:09:26 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:09:26 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:09:26 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 14:09:26 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:50234","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"b0d64190-8d49-11e7-994f-db06a4b23dc4\", \"id\": \":wdc:1504073350487\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/b0d64190-8d49-11e7-994f-db06a4b23dc4/element/:wdc:1504073350487/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:09:27 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 14:09:27 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 14:09:27 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 14:09:27 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:09:27 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:09:30 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; rv:22.0) Gecko/20130405 Firefox/22.0]
+INFO 30-Aug-2017 14:09:47 [line:86]clickWorker.py 智子云OpenDMP白皮书_百度搜索
+INFO 30-Aug-2017 14:09:47 [line:109]clickWorker.py 智子云opendmp白皮书
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 14:10:35 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:10:35 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:10:57 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:10:58 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:11:01 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0]
+INFO 30-Aug-2017 14:11:23 [line:86]clickWorker.py 智子云招聘_百度搜索
+INFO 30-Aug-2017 14:11:23 [line:109]clickWorker.py 智子云招聘
+智子云数据做假/智子云dsp/智子云靠谱吗/上海夜晚兼职招聘信息/智子云/上海智子云/智子云 靠谱吗/智子云守护/智子云怎么样
+INFO 30-Aug-2017 14:12:21 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:12:40 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:12:40 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:13:16 [line:151]clickWorker.py load link successful[1/2]
+WARNING 30-Aug-2017 14:13:17 [line:153]clickWorker.py load link failed[2/2]
+INFO 30-Aug-2017 14:13:17 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:13:20 [line:51]clickWorker.py set ua:[Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B334b Safari/531.21.10]
+INFO 30-Aug-2017 14:13:53 [line:86]clickWorker.py 智子云自动化智能化_百度搜索
+INFO 30-Aug-2017 14:13:53 [line:109]clickWorker.py 智子云自动化智能化
+自动化 智能化/智能化和自动化的区别/自动化与智能化的区别/自动化 信息化 智能化/自动化与智能化/机械化 自动化 智能化/自动化 智能化 智慧化/自动化所智能化大厦/智能化和自动化
+INFO 30-Aug-2017 14:14:23 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:16:04 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:16:04 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:16:18 [line:151]clickWorker.py load link successful[1/2]
+WARNING 30-Aug-2017 14:16:19 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 14:16:19 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:16:19 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:16:22 [line:72]vpnLoop.py 云南省 vpn : disconnected!
+INFO 30-Aug-2017 14:16:42 [line:62]vpnLoop.py 北京 vpn : connected!
+INFO 30-Aug-2017 14:16:47 [line:78]clickLaunch.py ip-address: 114.249.240.237
+INFO 30-Aug-2017 14:16:47 [line:87]clickLaunch.py work times:7
+INFO 30-Aug-2017 14:16:47 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)]
+ERROR 30-Aug-2017 14:17:01 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 14:17:01 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:17:03 [line:86]clickWorker.py 智子云自动化智能化_百度搜索
+ERROR 30-Aug-2017 14:17:14 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 14:17:14 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 14:17:14 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:51236","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/cf663dd0-8d4a-11e7-abeb-4bf139a50281/element/:wdc:1504073818817/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:17:14 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:17:14 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:17:14 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 14:17:15 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:51236","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"cf663dd0-8d4a-11e7-abeb-4bf139a50281\", \"id\": \":wdc:1504073818836\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/cf663dd0-8d4a-11e7-abeb-4bf139a50281/element/:wdc:1504073818836/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:17:15 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:17:15 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:17:15 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:17:18 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/18.0.1]
+INFO 30-Aug-2017 14:17:34 [line:86]clickWorker.py 智子云企业私有化DMP_百度搜索
+INFO 30-Aug-2017 14:17:34 [line:109]clickWorker.py 智子云企业私有化dmp
+国有企业私有化/企业私有化/企业微信私有化部署/企业微信私有化/上市企业私有化/国有企业私有化改革/企业私有化的好处/国有企业私有化的好处/什么是企业私有化
+INFO 30-Aug-2017 14:18:09 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:18:31 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:18:32 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:22:27 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:22:48 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:22:48 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:22:51 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36]
+INFO 30-Aug-2017 14:23:13 [line:86]clickWorker.py 智子云老板_百度搜索
+INFO 30-Aug-2017 14:23:13 [line:109]clickWorker.py 智子云老板
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 14:23:46 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:24:09 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:24:09 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:24:21 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:25:18 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:25:19 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:25:22 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2049.0 Safari/537.36]
+INFO 30-Aug-2017 14:26:04 [line:86]clickWorker.py 智子云DSP代理_百度搜索
+INFO 30-Aug-2017 14:26:04 [line:109]clickWorker.py 智子云dsp代理
+智子云多少钱代理/智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好
+INFO 30-Aug-2017 14:26:16 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:26:54 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:26:54 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:27:30 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:27:33 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:27:33 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:27:36 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64; rv:18.0) Gecko/20100101 Firefox/18.0]
+INFO 30-Aug-2017 14:28:00 [line:86]clickWorker.py 智子云招聘_百度搜索
+INFO 30-Aug-2017 14:28:01 [line:109]clickWorker.py 智子云招聘
+智子云数据做假/智子云dsp/智子云靠谱吗/上海夜晚兼职招聘信息/智子云/上海智子云/智子云 靠谱吗/智子云守护/智子云怎么样
+INFO 30-Aug-2017 14:28:20 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:28:42 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:28:42 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:28:52 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:29:10 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:29:10 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:29:13 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0]
+ERROR 30-Aug-2017 14:29:35 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 14:29:35 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:29:37 [line:86]clickWorker.py 智子云OpenDMP白皮书_百度搜索
+ERROR 30-Aug-2017 14:29:47 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 14:29:48 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 14:29:48 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:53067","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/8d1f7750-8d4c-11e7-8b94-5d529285fbdf/element/:wdc:1504074573429/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:29:48 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 14:29:48 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 14:29:48 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 14:29:48 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:29:48 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 14:29:49 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:53067","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"8d1f7750-8d4c-11e7-8b94-5d529285fbdf\", \"id\": \":wdc:1504074573448\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/8d1f7750-8d4c-11e7-8b94-5d529285fbdf/element/:wdc:1504074573448/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:29:49 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:29:49 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:29:49 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:29:52 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; rv:21.0) Gecko/20130401 Firefox/21.0]
+INFO 30-Aug-2017 14:30:03 [line:86]clickWorker.py 智子云企业私有化DMP_百度搜索
+INFO 30-Aug-2017 14:30:03 [line:109]clickWorker.py 智子云企业私有化dmp
+国有企业私有化/企业私有化/企业微信私有化部署/企业微信私有化/上市企业私有化/国有企业私有化改革/企业私有化的好处/国有企业私有化的好处/什么是企业私有化
+INFO 30-Aug-2017 14:30:34 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:30:57 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:30:57 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:31:04 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:31:04 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:31:07 [line:72]vpnLoop.py 北京 vpn : disconnected!
+INFO 30-Aug-2017 14:31:21 [line:62]vpnLoop.py 吉林省 vpn : connected!
+INFO 30-Aug-2017 14:31:25 [line:78]clickLaunch.py ip-address: 119.52.60.28
+INFO 30-Aug-2017 14:31:25 [line:87]clickLaunch.py work times:8
+INFO 30-Aug-2017 14:31:25 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.3319.102 Safari/537.36]
+INFO 30-Aug-2017 14:31:46 [line:86]clickWorker.py 智子科技股票_百度搜索
+ERROR 30-Aug-2017 14:31:56 [line:104]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:31:56 [line:109]clickWorker.py 智子科技股票
+
+INFO 30-Aug-2017 14:32:18 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:32:18 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:32:35 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:32:35 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:32:38 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7)]
+ERROR 30-Aug-2017 14:33:00 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 14:33:00 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:33:02 [line:86]clickWorker.py 智子云数据透明_百度搜索
+ERROR 30-Aug-2017 14:33:13 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 14:33:13 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 14:33:13 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:53911","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/076a3a90-8d4d-11e7-9bfb-618079e34476/element/:wdc:1504074778651/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:33:13 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:33:13 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:33:13 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 14:33:13 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:53911","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"076a3a90-8d4d-11e7-9bfb-618079e34476\", \"id\": \":wdc:1504074778670\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/076a3a90-8d4d-11e7-9bfb-618079e34476/element/:wdc:1504074778670/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:33:14 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:33:14 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:33:14 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:33:17 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.3319.102 Safari/537.36]
+INFO 30-Aug-2017 14:33:35 [line:86]clickWorker.py 智子云DSP代理_百度搜索
+INFO 30-Aug-2017 14:33:35 [line:109]clickWorker.py 智子云dsp代理
+智子云多少钱代理/智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好
+INFO 30-Aug-2017 14:33:38 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:33:55 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:33:55 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:34:09 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:34:37 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:34:38 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:34:41 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; yie8)]
+ERROR 30-Aug-2017 14:34:55 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 14:34:55 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:34:57 [line:86]clickWorker.py 智子云数据透明_百度搜索
+ERROR 30-Aug-2017 14:35:07 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 14:35:08 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 14:35:08 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:54230","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/508e49f0-8d4d-11e7-962f-0d649bf32300/element/:wdc:1504074893130/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:35:08 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 14:35:08 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 14:35:08 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 14:35:08 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:35:08 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 14:35:09 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:54230","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"508e49f0-8d4d-11e7-962f-0d649bf32300\", \"id\": \":wdc:1504074893149\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/508e49f0-8d4d-11e7-962f-0d649bf32300/element/:wdc:1504074893149/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:35:09 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:35:09 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:35:09 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:35:12 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.3; rv:36.0) Gecko/20100101 Firefox/36.0]
+INFO 30-Aug-2017 14:35:29 [line:86]clickWorker.py 智子云老板_百度搜索
+INFO 30-Aug-2017 14:35:29 [line:109]clickWorker.py 智子云老板
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 14:35:40 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:35:40 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:36:00 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:36:00 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:36:03 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0]
+ERROR 30-Aug-2017 14:36:17 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 14:36:17 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:36:19 [line:86]clickWorker.py 智子云企业私有化DMP_百度搜索
+ERROR 30-Aug-2017 14:36:30 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 14:36:30 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 14:36:30 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:54570","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/803d03d0-8d4d-11e7-b5f8-f1be2e1a2503/element/:wdc:1504074975347/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:36:30 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 14:36:30 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 14:36:31 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 14:36:31 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:36:31 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 14:36:31 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:54570","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"803d03d0-8d4d-11e7-b5f8-f1be2e1a2503\", \"id\": \":wdc:1504074975366\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/803d03d0-8d4d-11e7-b5f8-f1be2e1a2503/element/:wdc:1504074975366/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:36:31 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 14:36:31 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 14:36:31 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 14:36:31 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:36:31 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:36:34 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; Media Center PC 6.0; InfoPath.3; MS-RTC LM 8; Zune 4.7]
+ERROR 30-Aug-2017 14:36:48 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 14:36:48 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:36:50 [line:86]clickWorker.py 智子云OpenDMP白皮书_百度搜索
+ERROR 30-Aug-2017 14:37:01 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 14:37:01 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 14:37:01 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:54647","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/945a3ef0-8d4d-11e7-a660-9f8efb11a194/element/:wdc:1504075006561/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:37:01 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 14:37:01 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 14:37:02 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 14:37:02 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:37:02 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 14:37:02 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:54647","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"945a3ef0-8d4d-11e7-a660-9f8efb11a194\", \"id\": \":wdc:1504075006580\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/945a3ef0-8d4d-11e7-a660-9f8efb11a194/element/:wdc:1504075006580/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:37:02 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:37:02 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:37:02 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:37:05 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/18.0.1]
+INFO 30-Aug-2017 14:37:21 [line:86]clickWorker.py 智子科技股票_百度搜索
+ERROR 30-Aug-2017 14:37:31 [line:104]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:37:31 [line:109]clickWorker.py 智子科技股票
+
+INFO 30-Aug-2017 14:38:21 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:38:21 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:38:26 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:39:32 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:39:32 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:39:35 [line:72]vpnLoop.py 吉林省 vpn : disconnected!
+INFO 30-Aug-2017 14:39:50 [line:62]vpnLoop.py 四川省 vpn : connected!
+INFO 30-Aug-2017 14:39:56 [line:78]clickLaunch.py ip-address: 124.161.105.56
+INFO 30-Aug-2017 14:39:56 [line:87]clickLaunch.py work times:8
+INFO 30-Aug-2017 14:39:56 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1667.0 Safari/537.36]
+INFO 30-Aug-2017 14:40:12 [line:86]clickWorker.py 智子科技股票_百度搜索
+ERROR 30-Aug-2017 14:40:23 [line:104]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:40:23 [line:109]clickWorker.py 智子科技股票
+
+INFO 30-Aug-2017 14:41:46 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:41:46 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:42:37 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:42:37 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:42:40 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.93 Safari/537.36]
+INFO 30-Aug-2017 14:43:00 [line:86]clickWorker.py 智子云OpenDSP_百度搜索
+INFO 30-Aug-2017 14:43:00 [line:109]clickWorker.py 智子云opendsp
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 14:43:17 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:43:25 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:43:25 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:43:40 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:44:04 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:44:04 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:44:07 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1866.237 Safari/537.36]
+INFO 30-Aug-2017 14:44:23 [line:86]clickWorker.py 智子云企业私有化DMP_百度搜索
+INFO 30-Aug-2017 14:44:24 [line:109]clickWorker.py 智子云企业私有化dmp
+国有企业私有化/企业私有化/企业微信私有化部署/企业微信私有化/上市企业私有化/国有企业私有化改革/企业私有化的好处/国有企业私有化的好处/什么是企业私有化
+INFO 30-Aug-2017 14:44:57 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:45:14 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:45:14 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:45:45 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:46:03 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:46:03 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:46:06 [line:51]clickWorker.py set ua:[Mozilla/4.0 (Compatible; MSIE 8.0; Windows NT 5.2; Trident/6.0)]
+ERROR 30-Aug-2017 14:46:21 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 14:46:21 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:46:23 [line:86]clickWorker.py 智子云企业私有化DMP_百度搜索
+ERROR 30-Aug-2017 14:46:34 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 14:46:34 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 14:46:34 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:56931","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/e79e0d70-8d4e-11e7-ae9b-37524fc33433/element/:wdc:1504075578644/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:46:34 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:46:34 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:46:34 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 14:46:35 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:56931","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"e79e0d70-8d4e-11e7-ae9b-37524fc33433\", \"id\": \":wdc:1504075578663\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/e79e0d70-8d4e-11e7-ae9b-37524fc33433/element/:wdc:1504075578663/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:46:35 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 14:46:35 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 14:46:35 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 14:46:35 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:46:35 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:46:38 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36]
+INFO 30-Aug-2017 14:46:54 [line:86]clickWorker.py 智子科技股票_百度搜索
+ERROR 30-Aug-2017 14:47:04 [line:104]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:47:04 [line:109]clickWorker.py 智子科技股票
+
+INFO 30-Aug-2017 14:47:21 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:47:36 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:47:36 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:47:47 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:48:05 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:48:05 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:48:08 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36]
+INFO 30-Aug-2017 14:48:25 [line:86]clickWorker.py 智子云DMP案例_百度搜索
+INFO 30-Aug-2017 14:48:25 [line:109]clickWorker.py 智子云dmp案例
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 14:48:43 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:48:43 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:48:58 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:50:04 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:50:04 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:50:07 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20130406 Firefox/23.0]
+INFO 30-Aug-2017 14:50:23 [line:86]clickWorker.py 智子云企业私有化DMP_百度搜索
+INFO 30-Aug-2017 14:50:24 [line:109]clickWorker.py 智子云企业私有化dmp
+国有企业私有化/企业私有化/企业微信私有化部署/企业微信私有化/上市企业私有化/国有企业私有化改革/企业私有化的好处/国有企业私有化的好处/什么是企业私有化
+INFO 30-Aug-2017 14:50:39 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:50:39 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:51:15 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:51:33 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:51:33 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:51:36 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; Zune 4.0; Tablet PC 2.0; InfoPath.3; .NET4.0C; .NET4.0E)]
+ERROR 30-Aug-2017 14:51:53 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 14:51:53 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:51:55 [line:86]clickWorker.py 智子云企业私有化DMP_百度搜索
+ERROR 30-Aug-2017 14:52:05 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 14:52:05 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 14:52:05 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:58474","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/adb14c20-8d4f-11e7-bf79-296822207435/element/:wdc:1504075910885/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:52:06 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:52:06 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:52:06 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 14:52:06 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:58474","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"adb14c20-8d4f-11e7-bf79-296822207435\", \"id\": \":wdc:1504075910904\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/adb14c20-8d4f-11e7-bf79-296822207435/element/:wdc:1504075910904/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:52:06 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 14:52:06 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 14:52:07 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 14:52:07 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:52:07 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:52:10 [line:72]vpnLoop.py 四川省 vpn : disconnected!
+INFO 30-Aug-2017 14:52:25 [line:62]vpnLoop.py 安徽省 vpn : connected!
+INFO 30-Aug-2017 14:52:29 [line:78]clickLaunch.py ip-address: 117.71.155.177
+INFO 30-Aug-2017 14:52:29 [line:87]clickLaunch.py work times:5
+INFO 30-Aug-2017 14:52:29 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 5.1; rv:21.0) Gecko/20130331 Firefox/21.0]
+INFO 30-Aug-2017 14:52:52 [line:86]clickWorker.py 智子云DMP案例_百度搜索
+INFO 30-Aug-2017 14:52:52 [line:109]clickWorker.py 智子云dmp案例
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 14:52:56 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:52:56 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:53:14 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:53:14 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:53:17 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:21.0.0) Gecko/20121011 Firefox/21.0.0]
+INFO 30-Aug-2017 14:53:33 [line:86]clickWorker.py 智子云数据透明_百度搜索
+INFO 30-Aug-2017 14:53:33 [line:109]clickWorker.py 智子云数据透明
+智子云数据做假/数据库透明加密/透明数据加密/数据透明传输/透明售房网数据准确吗/透明数据表/透明售房网 杭州 数据/oracle透明数据库加密/oracle 透明数据加密
+INFO 30-Aug-2017 14:53:36 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:53:36 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:54:22 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:55:38 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:55:38 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:55:41 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/29.0.1547.62 Safari/537.36]
+INFO 30-Aug-2017 14:55:55 [line:86]clickWorker.py 智子云老板_百度搜索
+INFO 30-Aug-2017 14:55:56 [line:109]clickWorker.py 智子云老板
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 14:56:17 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:56:17 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:56:30 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:56:39 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:56:39 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:56:42 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36]
+INFO 30-Aug-2017 14:56:58 [line:86]clickWorker.py 智子云自动化智能化_百度搜索
+INFO 30-Aug-2017 14:56:59 [line:109]clickWorker.py 智子云自动化智能化
+自动化 智能化/智能化和自动化的区别/自动化与智能化的区别/自动化 信息化 智能化/自动化与智能化/机械化 自动化 智能化/自动化 智能化 智慧化/自动化所智能化大厦/智能化和自动化
+INFO 30-Aug-2017 14:57:39 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 14:57:39 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 14:58:05 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 14:59:01 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 14:59:01 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:59:04 [line:51]clickWorker.py set ua:[Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727) 3gpp-gba UNTRUSTED/1.0]
+ERROR 30-Aug-2017 14:59:17 [line:78]clickWorker.py no content of searching
+ERROR 30-Aug-2017 14:59:17 [line:82]clickWorker.py <type 'exceptions.Exception'>
+INFO 30-Aug-2017 14:59:19 [line:86]clickWorker.py 智子云数据透明_百度搜索
+ERROR 30-Aug-2017 14:59:30 [line:97]clickWorker.py nothing about wordthinking
+ERROR 30-Aug-2017 14:59:30 [line:104]clickWorker.py <type 'exceptions.Exception'>
+ERROR 30-Aug-2017 14:59:30 [line:111]clickWorker.py nothing about recommand or relatedsearch
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 102, in baiduSpiderTask
+    relatedsearchs.append(a.text)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 73, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)['value']
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating '(y(a)?y(a).parentWindow||y(a).defaultView:window).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:59864","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"GET","url":"/text","urlParsed":{"anchor":"","query":"","file":"text","directory":"/","path":"/text","relative":"/text","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/text","queryKey":{},"chunks":["text"]},"urlOriginal":"/session/b76af670-8d50-11e7-9448-0780781f0e94/element/:wdc:1504076354421/text"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:59:30 [line:153]clickWorker.py load link failed[1/2]
+ERROR 30-Aug-2017 14:59:30 [line:161]clickWorker.py 没有打开链接 [1/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+WARNING 30-Aug-2017 14:59:30 [line:153]clickWorker.py load link failed[2/2]
+ERROR 30-Aug-2017 14:59:30 [line:161]clickWorker.py 没有打开链接 [2/2]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:59:30 [line:118]clickWorker.py next page------>
+ERROR 30-Aug-2017 14:59:31 [line:127]clickWorker.py go nextpage fail
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 122, in baiduSpiderTask
+    nextpage.click()
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 77, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webelement.py", line 493, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 256, in execute
+    self.error_handler.check_response(response)
+  File "C:\Anaconda2\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 194, in check_response
+    raise exception_class(message, screen, stacktrace)
+WebDriverException: Message: {"errorMessage":"undefined is not an object (evaluating 'B(A(a)).getComputedStyle(a,null).MozTransform.match')","request":{"headers":{"Accept":"application/json","Accept-Encoding":"identity","Connection":"close","Content-Length":"81","Content-Type":"application/json;charset=UTF-8","Host":"127.0.0.1:59864","User-Agent":"Python http auth"},"httpVersion":"1.1","method":"POST","post":"{\"sessionId\": \"b76af670-8d50-11e7-9448-0780781f0e94\", \"id\": \":wdc:1504076354440\"}","url":"/click","urlParsed":{"anchor":"","query":"","file":"click","directory":"/","path":"/click","relative":"/click","port":"","host":"","password":"","user":"","userInfo":"","authority":"","protocol":"","source":"/click","queryKey":{},"chunks":["click"]},"urlOriginal":"/session/b76af670-8d50-11e7-9448-0780781f0e94/element/:wdc:1504076354440/click"}}
+Screenshot: available via screen
+
+WARNING 30-Aug-2017 14:59:31 [line:153]clickWorker.py load link failed[1/1]
+ERROR 30-Aug-2017 14:59:31 [line:161]clickWorker.py 没有打开链接 [1/1]
+Traceback (most recent call last):
+  File "D:\codes\baiduV4\baidu\clickWorker.py", line 157, in baiduSpiderTask
+    sonhandle = driver.window_handles[1]
+IndexError: list index out of range
+INFO 30-Aug-2017 14:59:31 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 14:59:34 [line:72]vpnLoop.py 安徽省 vpn : disconnected!
+ERROR 30-Aug-2017 15:01:56 [line:58]vpnLoop.py 山东省 vpn : more than 60s! give up!
+ERROR 30-Aug-2017 15:01:56 [line:71]clickLaunch.py vpn 打开失败,5秒后重新打开
+None
+INFO 30-Aug-2017 15:02:16 [line:62]vpnLoop.py 山西省 vpn : connected!
+INFO 30-Aug-2017 15:02:21 [line:78]clickLaunch.py ip-address: 113.25.173.182
+INFO 30-Aug-2017 15:02:21 [line:87]clickLaunch.py work times:10
+INFO 30-Aug-2017 15:02:21 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; WOW64; rv:16.0.1) Gecko/20121011 Firefox/16.0.1]
+INFO 30-Aug-2017 15:02:46 [line:86]clickWorker.py 智子云数据透明_百度搜索
+INFO 30-Aug-2017 15:02:47 [line:109]clickWorker.py 智子云数据透明
+智子云数据做假/数据库透明加密/透明数据加密/数据透明传输/透明售房网数据准确吗/透明数据表/透明售房网 杭州 数据/oracle透明数据库加密/oracle 透明数据加密
+INFO 30-Aug-2017 15:03:35 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 15:04:26 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 15:04:26 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 15:04:38 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 15:04:38 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 15:04:41 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20100101 Firefox/21.0]
+INFO 30-Aug-2017 15:05:01 [line:86]clickWorker.py 智子云老板_百度搜索
+INFO 30-Aug-2017 15:05:01 [line:109]clickWorker.py 智子云老板
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 15:05:12 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 15:06:26 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 15:06:26 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 15:07:38 [line:151]clickWorker.py load link successful[1/2]
+WARNING 30-Aug-2017 15:07:39 [line:153]clickWorker.py load link failed[2/2]
+INFO 30-Aug-2017 15:07:39 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 15:07:42 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.1; WOW64; rv:21.0) Gecko/20130330 Firefox/21.0]
+INFO 30-Aug-2017 15:08:18 [line:86]clickWorker.py 智子云DMP案例_百度搜索
+INFO 30-Aug-2017 15:08:19 [line:109]clickWorker.py 智子云dmp案例
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 15:09:00 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 15:09:00 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 15:11:11 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 15:11:27 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 15:11:27 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 15:11:30 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36]
+INFO 30-Aug-2017 15:11:46 [line:86]clickWorker.py 智子云老板_百度搜索
+INFO 30-Aug-2017 15:11:46 [line:109]clickWorker.py 智子云老板
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 15:12:04 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 15:12:04 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 15:13:58 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 15:14:07 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 15:14:07 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 15:14:10 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2; WOW64; rv:16.0.1) Gecko/20121011 Firefox/16.0.1]
+INFO 30-Aug-2017 15:14:27 [line:86]clickWorker.py 智子云OpenDMP白皮书_百度搜索
+INFO 30-Aug-2017 15:14:28 [line:109]clickWorker.py 智子云opendmp白皮书
+智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好/智子云 退款
+INFO 30-Aug-2017 15:14:35 [line:151]clickWorker.py load link successful[1/2]
+INFO 30-Aug-2017 15:15:22 [line:151]clickWorker.py load link successful[2/2]
+INFO 30-Aug-2017 15:15:22 [line:118]clickWorker.py next page------>
+INFO 30-Aug-2017 15:16:16 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 15:16:16 [line:94]clickLaunch.py work complete------>
+INFO 30-Aug-2017 15:16:19 [line:51]clickWorker.py set ua:[Mozilla/5.0 (Windows NT 6.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1464.0 Safari/537.36]
+INFO 30-Aug-2017 15:16:38 [line:86]clickWorker.py 智子云DSP代理_百度搜索
+INFO 30-Aug-2017 15:16:38 [line:109]clickWorker.py 智子云dsp代理
+智子云多少钱代理/智子云/上海智子云/智子云dsp/智子云 靠谱吗/智子云守护/智子云怎么样/智子科技退出智子云/聚效和智子云哪个好
+INFO 30-Aug-2017 15:16:53 [line:151]clickWorker.py load link successful[1/1]
+INFO 30-Aug-2017 15:16:53 [line:118]clickWorker.py next page------>

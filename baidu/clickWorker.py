@@ -4,7 +4,7 @@ Created on Tue Jun 20 13:49:58 2017
 
 @author: WddIs
 """
-import logging as workerlog
+import logging
 import random
 import subprocess as subp
 import time
@@ -20,7 +20,7 @@ from selenium.webdriver.common.keys import Keys
 import json
 
 
-def clearDrivers(driver_type):
+def clearDrivers(driver_type = 2):
     if driver_type == 1:
         cmd = "taskkill /im chromedriver.exe /f"
     else:
@@ -48,7 +48,7 @@ class baiduWorker(object):
         if not self.ua:
             self.ua = self.getUA()
         dcap["phantomjs.page.settings.userAgent"] = ua = self.getUA()
-        workerlog.info("set ua:[%s]" % ua)
+        logging.info("set ua:[%s]" % ua)
         # 不载入图片，爬页面速度会快很多
         dcap["phantomjs.page.settings.loadImages"] = False
         # 打开带配置信息的phantomJS浏览器
@@ -64,7 +64,7 @@ class baiduWorker(object):
         try:
             elem = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.NAME, 'wd')))
         except Exception:
-            workerlog.error("no wd input")
+            logging.error("no wd input")
             driver.quit()
             return
         # 清空搜索框中的内容
@@ -75,15 +75,15 @@ class baiduWorker(object):
             WebDriverWait(driver, 10).until(
             EC.visibility_of_element_located((By.XPATH, '//div[@id="content_left"]')))
         except Exception:
-            workerlog.error("no content of searching")
+            logging.error("no content of searching")
         try:
             elem.click()
         except Exception:
-            workerlog.error(Exception)
+            logging.error(Exception)
         time.sleep(2)
 
         title = driver.title
-        workerlog.info(title)
+        logging.info(title)
 
         # 词语联想
         bdsug = []
@@ -94,28 +94,28 @@ class baiduWorker(object):
                     EC.presence_of_all_elements_located((By.CLASS_NAME, 'bdsug-overflow'))):
                 bdsug.append(p.text)
         except Exception:
-            workerlog.error("nothing about wordthinking")
+            logging.error("nothing about wordthinking")
         try:
             # 相关搜索
             for a in WebDriverWait(driver, 10).until(
                     EC.presence_of_all_elements_located((By.XPATH, '//div[@id="rs"]//th/a'))):
                 relatedsearchs.append(a.text)
         except Exception:
-            workerlog.error(Exception)
+            logging.error(Exception)
 
         if bdsug or relatedsearchs:
             recommand = "/".join(bdsug)
             relatedsearch = '/'.join(relatedsearchs)
-            workerlog.info("%s", "\n".join([recommand, relatedsearch]))
+            logging.info("%s", "\n".join([recommand, relatedsearch]))
         else:
-            workerlog.exception("nothing about recommand or relatedsearch")
+            logging.exception("nothing about recommand or relatedsearch")
             # 没有相关推荐和联想词
 
         count = 0
         # 翻页和点击
         while count < 2:
             if count != 0:
-                workerlog.info("next page------>")
+                logging.info("next page------>")
                 # 翻页
                 try:
                     nextpage = WebDriverWait(driver, 5).until(EC.presence_of_all_elements_located((By.XPATH, '//div[@id="page"]/a[@class="n"]')))[-1]
@@ -124,9 +124,9 @@ class baiduWorker(object):
                     WebDriverWait(driver, 5).until(
                         EC.visibility_of_element_located((By.XPATH, '//div[@id="content_left"]')))
                 except Exception:
-                    workerlog.exception("go nextpage fail")
+                    logging.exception("go nextpage fail")
                 except IndexError:
-                    workerlog.warning("no more nextpage when pagecount is %d", count)
+                    logging.warning("no more nextpage when pagecount is %d", count)
                     break
 
             count += 1
@@ -148,9 +148,9 @@ class baiduWorker(object):
                         # 这里会因为超时而不完全加载链接
                         link.click()
                         time.sleep(2)
-                        workerlog.info("load link successful[%d/%d]" % (i + 1, linknum))
+                        logging.info("load link successful[%d/%d]" % (i + 1, linknum))
                     except Exception:
-                        workerlog.warning("load link failed[%d/%d]" % (i + 1, linknum))
+                        logging.warning("load link failed[%d/%d]" % (i + 1, linknum))
                     links.remove(link)
                     # 转到链接页，失败则表示没有打开链接
                     try:
@@ -158,11 +158,11 @@ class baiduWorker(object):
                         driver.switch_to.window(sonhandle)
                         driver.close()
                     except Exception:
-                        workerlog.exception("没有打开链接 [%d/%d]" % (i + 1, linknum))
+                        logging.exception("没有打开链接 [%d/%d]" % (i + 1, linknum))
                     finally:
                         driver.switch_to.window(pagehandler)
             else:
-                workerlog.warning("%s/%d page has no links" % (title, count))
+                logging.warning("%s/%d page has no links" % (title, count))
                 driver.save_screenshot("./errorsreenshots/%s%s.png" % (
                     "no links ",
                     title + str(time.time())))

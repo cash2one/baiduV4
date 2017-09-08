@@ -7,7 +7,7 @@ Created on Tue Jun 20 13:49:58 2017
 
 import subprocess as subp
 import os
-import logging as vpnlog
+import logging
 
 import time
 
@@ -55,21 +55,21 @@ class vpnRandom(object):
             process = subp.Popen(cmd, stdout=subp.PIPE, bufsize=1, startupinfo=startupinfo)
             for line in iter(process.stdout.readline, b''):
                 if time.time() - btime > 60:
-                    vpnlog.error("%s vpn : more than 60s! give up!", ovpn[0])
+                    logging.error("%s vpn : more than 60s! give up!", ovpn[0])
                     self.count += 1
                     return None
                 if "Initialization Sequence Completed" in line:
-                    vpnlog.info("%s vpn : connected!", ovpn[0])
+                    logging.info("%s vpn : connected!", ovpn[0])
                     time.sleep(3)
                     return process
-        vpnlog.error("%s vpn : connect fail!", ovpn[0])
+        logging.error("%s vpn : connect fail!", ovpn[0])
         self.count += 1
         return None
 
     def disconnect(self, process):
         ovpn = self.ovpnfiles[self.count % self.filenum]
         process.terminate()
-        vpnlog.info("%s vpn : disconnected!", ovpn[0])
+        logging.info("%s vpn : disconnected!", ovpn[0])
         process.kill()
         self.count += 1
         time.sleep(3)
